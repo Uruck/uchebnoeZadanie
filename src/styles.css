@@ -1,0 +1,10 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .current-turn {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
